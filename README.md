@@ -5,3 +5,5 @@ Im just trying to learn about different departments within programming (mostly w
 - 🔭 I’m currently working on my new survey web app called SuperSurveys
 - 🌱 I’m currently learning Go
 - ⚡ Fun fact: I am able to use JavaScript without having a mental breakdown (sometimes)
+
+![My Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jesperkha&layout=compact&theme=dark)

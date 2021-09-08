@@ -1,4 +1,4 @@
-###  OOP is like Fr\*nce; just stay away from it
+###  Unhappiness fosters in those who fail to see Floppa as their true god
 ####  - *Master Oogway*
 <br>
 

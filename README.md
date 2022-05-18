@@ -1,1 +1,2 @@
-### Go is kinda cool ngl
+- Average Go enjoyer
+- Consumed by the low-level pipeline

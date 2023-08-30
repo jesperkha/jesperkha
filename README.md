@@ -1,4 +1,1 @@
-- Average Go enjoyer
-- Consumed by the low-level pipeline
-- Most projects are made for fun or to solve a minor inconvenience
-- You will never see me touching Java
+
